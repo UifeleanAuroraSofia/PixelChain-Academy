@@ -1,0 +1,7 @@
+PixelChain-Academy.BE/.anchor
+PixelChain-Academy.BE/.DS_Store
+PixelChain-Academy.BE/target
+**/*.rs.bk
+PixelChain-Academy.BE/node_modules
+PixelChain-Academy.BE/test-ledger
+PixelChain-Academy.BE/.yarn
